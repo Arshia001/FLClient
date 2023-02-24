@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_Common
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ebe33dde460f9524687a3fb15ad6ee27, type: 3}
+    totalSpriteSurfaceArea: 898886
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c3e1beb10bc0b904fbb3036c31a03e8d, type: 3}
+  - {fileID: 21300000, guid: 97594532524a06d43be5761892f391c4, type: 3}
+  - {fileID: -3932986660946287442, guid: c2e46c5284f144847b9cb8470a9ed56b, type: 3}
+  - {fileID: 1483268659738890104, guid: c2e46c5284f144847b9cb8470a9ed56b, type: 3}
+  - {fileID: -2922853501061035681, guid: c2e46c5284f144847b9cb8470a9ed56b, type: 3}
+  - {fileID: 21300000, guid: 7a7cfbc239fee6a45abee9018f0c0e6c, type: 3}
+  - {fileID: 21300000, guid: 0f995a33bb824124ab788d332e743234, type: 3}
+  - {fileID: 21300000, guid: 7b70a283f93fc974d9545525acef43d6, type: 3}
+  - {fileID: 21300000, guid: 2d6d16d3b22e4174da0df0742ebccdfc, type: 3}
+  - {fileID: 21300000, guid: da013954b619c1f41bb6f6ed95136432, type: 3}
+  - {fileID: 21300000, guid: 431347649171e4647b082faa7d6c5f41, type: 3}
+  - {fileID: 21300000, guid: 94f5a394fe4d0144cb8e1ff974970695, type: 3}
+  - {fileID: 21300000, guid: f72249a4f466b6a47b85a10387d9e9fe, type: 3}
+  - {fileID: 21300000, guid: d8aa2a46b9a0f924ea82ee15db09f420, type: 3}
+  - {fileID: 21300000, guid: ad76dd8683086e748901e6f0d3b86f34, type: 3}
+  - {fileID: 21300000, guid: 4b847ef6232fa584fb46545e7e4cd16a, type: 3}
+  - {fileID: 21300000, guid: 379fea3777120794b972c5e47b1f3c86, type: 3}
+  - {fileID: 21300000, guid: b7e85299016adc242896ffbd6d51e6bc, type: 3}
+  - {fileID: 21300000, guid: 3bef04a91b33b5e449886c8345944996, type: 3}
+  - {fileID: 21300000, guid: c3b975c9507b18f4d9f594177ec43cf2, type: 3}
+  - {fileID: 21300000, guid: beea214ae415f234f88152a98db0e872, type: 3}
+  - {fileID: 21300000, guid: 3ee90e4aa4d83db45b883fe95b176d33, type: 3}
+  - {fileID: 21300000, guid: 4005c06a9ce6dc948bdefca98a3d466f, type: 3}
+  - {fileID: 21300000, guid: ffbfc89a45b73cf47b2a65be9071f575, type: 3}
+  - {fileID: 21300000, guid: c3902f2b0c833cd468a4bda312b703b0, type: 3}
+  - {fileID: 21300000, guid: efc4a23b29cf0684490767779241410c, type: 3}
+  - {fileID: 21300000, guid: 5153927b3b32d88429c37d94d22032bd, type: 3}
+  - {fileID: 21300000, guid: 044f60bb0b7bf644388dede832a3d08c, type: 3}
+  - {fileID: 21300000, guid: 346ef0acc98bbdf48824262464aaf16e, type: 3}
+  - {fileID: 21300000, guid: af7cc6ac6fc2c63408569dcef9a91637, type: 3}
+  - {fileID: 21300000, guid: da11e89e810c28f4d8f22c170d6dcb39, type: 3}
+  - {fileID: 21300000, guid: 1fbf47eeb7deb744588548a1067d7db4, type: 3}
+  - {fileID: 21300000, guid: 4df7652f41057d64dbc6e25beff853f0, type: 3}
+  - {fileID: 21300000, guid: 63a6aadf680a2cc4fab191176a478bda, type: 3}
+  - {fileID: 21300000, guid: 3f655dffd629e8145b1e0e3a07cc1dd8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Frame-ExtraLight
+  - RoundedRectangle-540PPU
+  - CoinSprite_2
+  - CoinSprite_0
+  - CoinSprite_1
+  - HalfFrameTopTrans
+  - DotPatternCircular
+  - CloseButton
+  - LoginWithBazaar
+  - FrameFull
+  - Email
+  - YesButton
+  - HalfFrameRight
+  - HalfFrameBottom
+  - CoinStack
+  - Background
+  - YesButtonThin
+  - RoundedRectangle-280PPU
+  - LoadingArc
+  - FrameMask
+  - FrameMask-Light
+  - Coin
+  - Frame-Light
+  - Frame
+  - NoButton
+  - BlueButton
+  - BackButton
+  - HalfFrameTopLight
+  - Disconnected
+  - Star
+  - HalfFrameLeft
+  - DotPatternHorizontal
+  - NoButtonThin
+  - ExplanationBox
+  - HalfFrameTop
+  m_Tag: Atlas_Common
+  m_IsVariant: 0

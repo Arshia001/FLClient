@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_Startup
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5fb50627d48256c459550730570c56a5, type: 3}
+    totalSpriteSurfaceArea: 781980
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 43237e818612fb8458e630cc0a955d55, type: 3}
+  - {fileID: 21300000, guid: f21f19b36c0fcfa4eb66c25f75903b9d, type: 3}
+  - {fileID: 21300000, guid: 443f2ca5e233db04d874a2ed95e84be5, type: 3}
+  - {fileID: 21300000, guid: 58cf31e53415e8d4a96ff9cdcc69025f, type: 3}
+  - {fileID: 21300000, guid: e6a64206021e32641965414bfe352ee5, type: 3}
+  - {fileID: 21300000, guid: ea6c4edcd59ee8048acab032b79ecbe6, type: 3}
+  - {fileID: 21300000, guid: d582daeef1ec3634ead1881401331111, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - SpikesBottom
+  - StarSpikes
+  - Boom
+  - SpikesMid
+  - SpikesTop
+  - CloudAndThunder
+  - Doobs
+  m_Tag: Atlas_Startup
+  m_IsVariant: 0

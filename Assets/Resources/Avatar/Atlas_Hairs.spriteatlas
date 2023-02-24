@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_Hairs
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 9d125fb311eeec140899dc9ddcf41b54, type: 3}
+    totalSpriteSurfaceArea: 8355970
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8faa2c2092097e942ae64afae84228ce, type: 3}
+  - {fileID: 21300000, guid: 19a0fe9069f5032448e026743c3dc75f, type: 3}
+  - {fileID: 21300000, guid: c59dc6216edf3e841adad15c21dc04dc, type: 3}
+  - {fileID: 21300000, guid: 971c52823f9049347b25a73b2efe3863, type: 3}
+  - {fileID: 21300000, guid: 81f379f287a0f4b43b9460c13937ada3, type: 3}
+  - {fileID: 21300000, guid: de1b6a0309e0b40489ca08f5ff697854, type: 3}
+  - {fileID: 21300000, guid: ee7c8d74a3a5bd641a349bc902441027, type: 3}
+  - {fileID: 21300000, guid: 18025e949a732b148921b1ca8d0a73cc, type: 3}
+  - {fileID: 21300000, guid: 34c697d4ec915fb418ec240654a5fcb0, type: 3}
+  - {fileID: 21300000, guid: ead17f25b60eb854db1a9448dfd9d923, type: 3}
+  - {fileID: 21300000, guid: c1900a454f6020a498ec84ebb5280226, type: 3}
+  - {fileID: 21300000, guid: 217034854976bca48b686cb0f4b92961, type: 3}
+  - {fileID: 21300000, guid: 26bb1ea557f673148ba5d3072c7aa1f1, type: 3}
+  - {fileID: 21300000, guid: a10827b56a429e54eb3185d13a109aec, type: 3}
+  - {fileID: 21300000, guid: bab22736c820f3042ac3740e859f520a, type: 3}
+  - {fileID: 21300000, guid: 17806f677197a4e479e91d8f0142ed1f, type: 3}
+  - {fileID: 21300000, guid: c225a5a7b68bb4947863d9b5282eda73, type: 3}
+  - {fileID: 21300000, guid: 860f8da725f789a42bc3c6029a9c4713, type: 3}
+  - {fileID: 21300000, guid: fd86b2b87ea196f43a02e7e72f2f68ca, type: 3}
+  - {fileID: 21300000, guid: fd0e44397b398cf45ba67c1274e773e3, type: 3}
+  - {fileID: 21300000, guid: 4a87f759e197335449b532d7dc6227b9, type: 3}
+  - {fileID: 21300000, guid: 8f91dd799eb2bb94a8373cd827e04ba4, type: 3}
+  - {fileID: 21300000, guid: fe68325a40a6a9646866a6170daccf03, type: 3}
+  - {fileID: 21300000, guid: c0acf20b37e75ee448138e84c22076c4, type: 3}
+  - {fileID: 21300000, guid: 3f9a030c7cfd7a643aa8a677e4187690, type: 3}
+  - {fileID: 21300000, guid: 9d17f01d91fcc494f910e5e9cf36efee, type: 3}
+  - {fileID: 21300000, guid: 7d207f9dc7676d4419edd676e92c682e, type: 3}
+  - {fileID: 21300000, guid: 042c02edd817b6f4ba89e8d53f1972ca, type: 3}
+  - {fileID: 21300000, guid: a8aa4ebe088571e4ba3cfb925f3e6e6e, type: 3}
+  - {fileID: 21300000, guid: 03f69fce09ecf2746a891a0af4ed2e84, type: 3}
+  - {fileID: 21300000, guid: 4d0587ee24cec894ca87bd059787c256, type: 3}
+  - {fileID: 21300000, guid: 4f4bcd1f4e4ef8d4abca3801a630493c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 9b
+  - 13bd
+  - 7
+  - 4bd
+  - 13b
+  - 13d
+  - 12d
+  - 12
+  - 8
+  - 9
+  - 12b
+  - 8bd
+  - 5
+  - 13
+  - 10b
+  - 4b
+  - 1
+  - 12bd
+  - 11d
+  - 11
+  - 10
+  - 2
+  - 6b
+  - 4
+  - 3
+  - 11b
+  - 8b
+  - 6
+  - 7b
+  - 8d
+  - 11bd
+  - 4d
+  m_Tag: Atlas_Hairs
+  m_IsVariant: 0

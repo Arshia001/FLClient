@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_HeadShapes
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8beec611cb3ca454a9c7deaf8e697132, type: 3}
+    totalSpriteSurfaceArea: 2668480
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5ceec9506fea9eb4a95c57f6ada0bda8, type: 3}
+  - {fileID: 21300000, guid: 71655201f74749f438aeef8a94ec71ab, type: 3}
+  - {fileID: 21300000, guid: f5301592847c8134b939f318fc89902d, type: 3}
+  - {fileID: 21300000, guid: ba4aea63a7ed77d4a848e57b44dda074, type: 3}
+  - {fileID: 21300000, guid: 435aee24f1ebb084d950e934c86f6a45, type: 3}
+  - {fileID: 21300000, guid: 5c284ac5f19a0bb4d965f33d429d7d13, type: 3}
+  - {fileID: 21300000, guid: 46917e07eb16f68489375da14bd27396, type: 3}
+  - {fileID: 21300000, guid: 85e597896723edd418bf5c84b3518e21, type: 3}
+  - {fileID: 21300000, guid: 95c5e2b942bb6684ebfda734864e7efc, type: 3}
+  - {fileID: 21300000, guid: 4016664a23750674585dc84a3a01cdff, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 4s
+  - 1s
+  - 5s
+  - 2s
+  - 5
+  - 2
+  - 1
+  - 3
+  - 3s
+  - 4
+  m_Tag: Atlas_HeadShapes
+  m_IsVariant: 0

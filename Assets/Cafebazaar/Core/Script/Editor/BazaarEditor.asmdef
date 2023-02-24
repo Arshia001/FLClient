@@ -1,0 +1,17 @@
+{
+    "name": "Bazaar.Editor",
+    "references": [
+        "GUID:16526e991048f12439fce04acc048d53"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

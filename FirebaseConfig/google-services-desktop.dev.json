@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "442349813706",
+      "firebase_url": "https://pencilwarsdev.firebaseio.com",
+      "project_id": "pencilwarsdev",
+      "storage_bucket": "pencilwarsdev.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:442349813706:android:e49a3ab6c84b174d639933",
+          "android_client_info": {
+            "package_name": "ir.onehand.pwclient"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "442349813706-33l6bsl56ucea6bv8ndvpdnaclgt9ebf.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAAl6Fy46hPH-rlf8tegY5hpLALeBxaXPY"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "442349813706-33l6bsl56ucea6bv8ndvpdnaclgt9ebf.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

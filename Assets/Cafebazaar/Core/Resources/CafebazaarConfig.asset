@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8d40beeb9ba7504b9e559b2f16f60a1, type: 3}
+  m_Name: CafebazaarConfig
+  m_EditorClassIdentifier: 
+  ActiveSDK: 1
+  InAppPurchase:
+    RSA: MIHNMA0GCSqGSIb3DQEBAQUAA4G7ADCBtwKBrwDXPLkszPHP01+ssOKcBsFq+gGQ/otXJhI3MrSB9tWyNDjGCJh8gDNM+tjQ3j5ysuvc3jwq+3tuCtfe06WhMVA52SEu60YE9lWUN7jVIexsq7cgYo7XQxY41tVz4Igs6/REvDUTosVT27o+1JwJk8Ju1+eafrfV0CHj8VbLd0BHMPTxmU9tXFTDdLCn/ehNo+MVrLkfOL0icvSawk5YV6LEM2SUFpTlm1uBkkMOxNcCAwEAAQ==
+    Products:
+    - ProductId: test
+      Price: 
+      Title: title
+      Description: 
+      Type: 0
+      Kind: 3

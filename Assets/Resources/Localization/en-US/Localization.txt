@@ -1,0 +1,5 @@
+MyTurn:Your turn
+TheirTurn:Waiting
+Finished:Finished
+Opponent:Opponent
+You:You

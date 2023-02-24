@@ -1,0 +1,17 @@
+{
+    "name": "PersianTextShaper.Editor",
+    "references": [
+        "GUID:b1e26778c3d11d24aa3ed8dca0c748ec"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

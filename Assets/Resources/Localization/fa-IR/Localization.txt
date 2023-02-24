@@ -1,0 +1,7 @@
+MyTurn:نوبت شما
+TheirTurn:منتظر حریف
+Finished:تمام شده
+Opponent:حریف
+You:شما
+ShowOwnAnswers:نمایش پاسخ‌های شما
+ShowAllAnswers:نمایش تمام پاسخ‌ها

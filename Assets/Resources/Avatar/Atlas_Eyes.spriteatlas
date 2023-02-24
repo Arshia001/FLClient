@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_Eyes
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e35135c8da118ab41bc16ae9f96463a4, type: 3}
+    totalSpriteSurfaceArea: 835040
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: db6a6c4036e95fb41b00c8aafbe79100, type: 3}
+  - {fileID: 21300000, guid: bdab9aa2ec473b04f8c9c875b906e04f, type: 3}
+  - {fileID: 21300000, guid: c409692394046684bae83ba82acc9646, type: 3}
+  - {fileID: 21300000, guid: 8cfda933c9fff7840ad048df98dcfafb, type: 3}
+  - {fileID: 21300000, guid: 8611d5833b5ccc040af2e9f68549a7e3, type: 3}
+  - {fileID: 21300000, guid: 5c96ac831a38edd42928589304d19083, type: 3}
+  - {fileID: 21300000, guid: dbe97254812ea754ca3abd4c2404e4b7, type: 3}
+  - {fileID: 21300000, guid: 1cac27169faa2014586c73c3a7df5b4d, type: 3}
+  - {fileID: 21300000, guid: b160b366938c7784ab903bd6bd215328, type: 3}
+  - {fileID: 21300000, guid: bfd72027dffbd544d86d5e7a58a53f7f, type: 3}
+  - {fileID: 21300000, guid: 1c2d4267af1988f47a95502a686dea94, type: 3}
+  - {fileID: 21300000, guid: 5bd0ed0800bc2c547bf36ad2c285b029, type: 3}
+  - {fileID: 21300000, guid: 0f30d559bc127144d98ab1aa462dedb3, type: 3}
+  - {fileID: 21300000, guid: 779dcfe9bb25f6644883f5d1a4658cb9, type: 3}
+  - {fileID: 21300000, guid: 5013383c245eb9d4da74ec0002f0ea55, type: 3}
+  - {fileID: 21300000, guid: 07f917ae6e8f5ba4aa86e76f38f9f877, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 4
+  - 8
+  - 1
+  - 10
+  - 15
+  - 13
+  - 12
+  - 2
+  - 11
+  - 14
+  - 7
+  - 9
+  - 3
+  - 16
+  - 6
+  - 5
+  m_Tag: Atlas_Eyes
+  m_IsVariant: 0

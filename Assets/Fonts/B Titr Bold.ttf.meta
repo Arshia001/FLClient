@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b9e117f1a55495d44afe973391941ea6
+timeCreated: 1534259138
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 80
+  forceTextureCase: 3
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: B Titr
+  fontNames:
+  - B Titr
+  fallbackFontReferences: []
+  customCharacters: "1234567890:,\u060C"
+  fontRenderingMode: 0
+  ascentCalculationMode: 2
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

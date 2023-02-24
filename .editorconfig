@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# CA1031: Do not catch general exception types
+dotnet_diagnostic.CA1031.severity = silent
+
+# IDE0062: Make local function 'static'
+csharp_prefer_static_local_function = true:silent
+
+# CA1822: Mark members as static
+dotnet_diagnostic.CA1822.severity = silent

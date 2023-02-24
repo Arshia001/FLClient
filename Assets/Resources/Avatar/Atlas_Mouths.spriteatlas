@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas_Mouths
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 409c1a3d9d8f3404badf931cce8c2671, type: 3}
+    totalSpriteSurfaceArea: 956340
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 70d3b7d0121a28d4098b7235f3628b4d, type: 3}
+  - {fileID: 21300000, guid: 4c8f1e12f2d3e9e4aa41b824b6472b06, type: 3}
+  - {fileID: 21300000, guid: 7b56b07309af19442b91d4c77a6d5361, type: 3}
+  - {fileID: 21300000, guid: cd73d9e38c87bbc43b8c7624439643ca, type: 3}
+  - {fileID: 21300000, guid: 7d468c6410744844eb8577130506ec23, type: 3}
+  - {fileID: 21300000, guid: d4482c065d3a7d349bcbb64b4d9cdc48, type: 3}
+  - {fileID: 21300000, guid: 1c8c8707930c2ac4a9decac0ea67c7cf, type: 3}
+  - {fileID: 21300000, guid: 0cbda017cdd6f9b40867ab38586fb240, type: 3}
+  - {fileID: 21300000, guid: 984dfba7e1888bc4aaca2ab1d2966b0d, type: 3}
+  - {fileID: 21300000, guid: af6d11b74c66d784bae4bc74db7eff22, type: 3}
+  - {fileID: 21300000, guid: 9416d9b82dcf66c44be8d93618256453, type: 3}
+  - {fileID: 21300000, guid: d62b219abbf297c4ba04fd64ed8a8a03, type: 3}
+  - {fileID: 21300000, guid: 1d85c87cd88feee46a6506c035870ee4, type: 3}
+  - {fileID: 21300000, guid: 845c71cc7fe7f1a409150146b7d1d22e, type: 3}
+  - {fileID: 21300000, guid: 6c9e62dde9278d74a8460bc2ca93bd11, type: 3}
+  - {fileID: 21300000, guid: 9ce4fdfddb488e844b2c6b7ab010bf71, type: 3}
+  - {fileID: 21300000, guid: 8a8fd7ceaa25d384c96e6ceab2b5c520, type: 3}
+  - {fileID: 21300000, guid: f288efeee3a19314ca7c7cfae01aa77e, type: 3}
+  - {fileID: 21300000, guid: 1d55cb2f4bf15934baef399bd6c35587, type: 3}
+  - {fileID: 21300000, guid: 5695dc9fadeaf70459b50bc0b430985e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 11
+  - 7
+  - 1
+  - 16
+  - 19
+  - 14
+  - 12
+  - 18
+  - 5
+  - 8
+  - 3
+  - 10
+  - 13
+  - 9
+  - 2
+  - 17
+  - 6
+  - 15
+  - 20
+  - 4
+  m_Tag: Atlas_Mouths
+  m_IsVariant: 0
